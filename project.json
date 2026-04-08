@@ -1,0 +1,22 @@
+{
+  "overview": "A modern, single-page personal portfolio for Deepak Katiyar — a Front-End React Developer and B.Tech CSE student. Showcases projects, skills, achievements, and contact details in a professional layout.",
+  "features": [
+    "Hero section with name, title, and call-to-action",
+    "About section with education and profile summary",
+    "Projects showcase with live demo and GitHub links",
+    "Skills organized by category with visual tags",
+    "Achievements and certifications section",
+    "Responsive design for all screen sizes",
+    "Smooth scroll navigation with active link highlighting",
+    "Footer with social and contact links"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "react-developer",
+    "frontend",
+    "personal-website",
+    "resume"
+  ],
+  "last_updated": "2026-04-08T15:14:45.787Z"
+}
