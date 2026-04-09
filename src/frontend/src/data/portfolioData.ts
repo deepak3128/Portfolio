@@ -24,7 +24,7 @@ export const education: Education = {
   degree: "B.Tech in Computer Science and Engineering",
   location: "Mandana, Kanpur, Uttar Pradesh",
   graduation: "May 2027",
-  cgpa: "7.32 / 10",
+  cgpa: "7.39 / 10",
 };
 
 export const projects: Project[] = [
