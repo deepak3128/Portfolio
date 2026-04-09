@@ -13,7 +13,7 @@ export const personalInfo: PersonalInfo = {
     "Full Stack Developer | B.Tech CSE Student",
   email: "deepakhappy16@gmail.com",
   phone: "+91 8318522320",
-  linkedin: "https://linkedin.com/in/deepak-katiyar",
+  linkedin: "https://www.linkedin.com/in/deepak3128/",
   github: "https://github.com/deepak3128",
   summary:
     "Passionate final-year B.Tech CSE student and Front-End React Developer with hands-on experience building scalable, responsive web and cross-platform mobile applications using React, Tailwind CSS, and real-time technologies. Strong expertise in translating UI/UX designs into clean, reusable components, integrating REST APIs, and implementing real-time features. National Finalist – Smart India Hackathon 2025. Actively seeking remote React / Next.js Developer roles starting May 2027.",
