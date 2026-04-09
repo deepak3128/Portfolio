@@ -18,8 +18,8 @@ export function Footer() {
               DK<span className="text-accent-glow">.</span>
             </p>
             <p className="text-muted-foreground text-sm leading-relaxed max-w-xs">
-              Front-End React Developer passionate about building performant,
-              user-centric web applications.
+              Full Stack Developer & Front-End React Developer passionate about
+              building performant, user-centric web applications.
             </p>
           </div>
 
@@ -108,7 +108,7 @@ export function Footer() {
             © {year} Deepak Katiyar. All rights reserved.
           </p>
           <p className="text-xs text-muted-foreground">
-            Built with love
+            Built with love using{" "}
             <a
               href={caffeineUrl}
               target="_blank"

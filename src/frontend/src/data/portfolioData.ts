@@ -9,7 +9,8 @@ import type {
 
 export const personalInfo: PersonalInfo = {
   name: "Deepak Katiyar",
-  title: "Front-End React Developer & B.Tech CSE Student",
+  title:
+    "Full Stack Developer & Front-End React Developer | B.Tech CSE Student",
   email: "deepakhappy16@gmail.com",
   phone: "+91 8318522320",
   linkedin: "https://linkedin.com/in/deepak-katiyar",
@@ -24,7 +25,7 @@ export const education: Education = {
   degree: "B.Tech in Computer Science and Engineering",
   location: "Mandana, Kanpur, Uttar Pradesh",
   graduation: "May 2027",
-  cgpa: "7.39 / 10",
+  cgpa: "7.32 / 10",
 };
 
 export const projects: Project[] = [
@@ -74,6 +75,28 @@ export const projects: Project[] = [
     ],
     liveUrl: "https://river-monitoring-demo.netlify.app",
     githubUrl: "https://github.com/deepak3128",
+    featured: true,
+  },
+  {
+    id: "yt-shorts-blocker",
+    title: "YouTube Shorts Blocker",
+    period: "2024",
+    tech: [
+      "JavaScript",
+      "Chrome Extensions API",
+      "CSS",
+      "DOM Manipulation",
+      "Firefox WebExtensions",
+    ],
+    description:
+      "A production-ready cross-browser extension that blocks YouTube Shorts using vanilla JavaScript with zero external dependencies.",
+    bullets: [
+      "Built cross-browser extension (Chrome & Firefox) blocking YouTube Shorts via multi-layer approach: CSS injection, DOM manipulation, and click interception — zero external dependencies",
+      "Handled YouTube's SPA architecture with 500ms monitoring cycle and comprehensive error handling; professional popup UI for seamless user experience",
+      "Production-ready: full documentation, automated icon generation, and deployment-ready structure — 11KB compressed, under 5MB footprint",
+    ],
+    liveUrl: "",
+    githubUrl: "",
     featured: true,
   },
 ];
