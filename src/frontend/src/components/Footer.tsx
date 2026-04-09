@@ -6,7 +6,6 @@ export function Footer() {
   const year = new Date().getFullYear();
   const hostname =
     typeof window !== "undefined" ? window.location.hostname : "";
-  const caffeineUrl = `https://caffeine.ai?utm_source=caffeine-footer&utm_medium=referral&utm_content=${encodeURIComponent(hostname)}`;
 
   return (
     <footer className="bg-card border-t border-border" data-ocid="footer">
