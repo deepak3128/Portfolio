@@ -108,7 +108,15 @@ export function Footer() {
             © {year} Deepak Katiyar. All rights reserved.
           </p>
           <p className="text-xs text-muted-foreground">
-            Built with love 💞
+            Built with love using{" "}
+            <a
+              href={caffeineUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-accent hover:underline"
+            >
+              caffeine.ai
+            </a>
           </p>
         </div>
       </div>

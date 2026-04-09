@@ -99,6 +99,52 @@ export const projects: Project[] = [
     githubUrl: "",
     featured: true,
   },
+  {
+    id: "urban-bite-cafe",
+    title: "Urban Bite Cafe",
+    period: "Jan 2024 – Mar 2024",
+    tech: [
+      "React",
+      "JavaScript",
+      "Tailwind CSS",
+      "React Router",
+      "Context API",
+      "REST APIs",
+    ],
+    description:
+      "A fully responsive restaurant web app for Urban Bite Cafe featuring digital menu browsing, cart management, and a seamless food ordering experience.",
+    bullets: [
+      "Built a responsive React-based restaurant UI with dynamic menu browsing, category filters, and item detail views — optimized for both mobile and desktop",
+      "Implemented cart management with Context API for real-time quantity updates, order summary, and checkout flow without page reloads",
+      "Integrated REST API for live menu data and order placement, with skeleton loading states and error handling for a polished user experience",
+    ],
+    liveUrl: "",
+    githubUrl: "",
+    featured: false,
+  },
+  {
+    id: "mocha-exp",
+    title: "Mocha Exp",
+    period: "Apr 2024 – Jun 2024",
+    tech: [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "React Query",
+      "Framer Motion",
+      "Vite",
+    ],
+    description:
+      "A modern café discovery and experience web app that lets users explore coffee menus, read brew guides, and curate their personal coffee journey.",
+    bullets: [
+      "Developed a TypeScript + React café experience app with animated product cards, interactive brew guides, and a smooth scroll-based narrative layout using Framer Motion",
+      "Leveraged React Query for efficient server-state caching and async data fetching, reducing load times and eliminating redundant API calls",
+      "Crafted a pixel-perfect, typography-driven UI with Tailwind CSS — fully responsive across all screen sizes with attention to micro-interactions and visual hierarchy",
+    ],
+    liveUrl: "",
+    githubUrl: "",
+    featured: false,
+  },
 ];
 
 export const skillCategories: SkillCategory[] = [
