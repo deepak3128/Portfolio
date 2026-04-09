@@ -108,7 +108,7 @@ export function Footer() {
             © {year} Deepak Katiyar. All rights reserved.
           </p>
           <p className="text-xs text-muted-foreground">
-            Built with love :revolving_hearts:
+            Built with love 💞
           </p>
         </div>
       </div>
