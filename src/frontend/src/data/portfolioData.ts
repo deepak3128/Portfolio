@@ -78,28 +78,6 @@ export const projects: Project[] = [
     featured: true,
   },
   {
-    id: "yt-shorts-blocker",
-    title: "YouTube Shorts Blocker",
-    period: "Mar 2026",
-    tech: [
-      "JavaScript",
-      "Chrome Extensions API",
-      "CSS",
-      "DOM Manipulation",
-      "Firefox WebExtensions",
-    ],
-    description:
-      "A production-ready cross-browser extension that blocks YouTube Shorts using vanilla JavaScript with zero external dependencies.",
-    bullets: [
-      "Built cross-browser extension (Chrome & Firefox) blocking YouTube Shorts via multi-layer approach: CSS injection, DOM manipulation, and click interception — zero external dependencies",
-      "Handled YouTube's SPA architecture with 500ms monitoring cycle and comprehensive error handling; professional popup UI for seamless user experience",
-      "Production-ready: full documentation, automated icon generation, and deployment-ready structure — 11KB compressed, under 5MB footprint",
-    ],
-    liveUrl: "",
-    githubUrl: "https://github.com/deepak3128/Shorts-Blocker-Extension",
-    featured: true,
-  },
-  {
     id: "urban-bite-cafe",
     title: "Urban Bite Cafe",
     period: "Jan 2026 – Feb 2026",
@@ -125,7 +103,7 @@ export const projects: Project[] = [
   {
     id: "mocha-exp",
     title: "Mocha Exp",
-    period: "Jun 2026",
+    period: "March 2026",
     tech: [
       "React",
       "TypeScript",
@@ -144,6 +122,28 @@ export const projects: Project[] = [
     liveUrl: "",
     githubUrl: "",
     featured: false,
+  },
+  {
+    id: "yt-shorts-blocker",
+    title: "YouTube Shorts Blocker",
+    period: "Mar 2026",
+    tech: [
+      "JavaScript",
+      "Chrome Extensions API",
+      "CSS",
+      "DOM Manipulation",
+      "Firefox WebExtensions",
+    ],
+    description:
+      "A production-ready cross-browser extension that blocks YouTube Shorts using vanilla JavaScript with zero external dependencies.",
+    bullets: [
+      "Built cross-browser extension (Chrome & Firefox) blocking YouTube Shorts via multi-layer approach: CSS injection, DOM manipulation, and click interception — zero external dependencies",
+      "Handled YouTube's SPA architecture with 500ms monitoring cycle and comprehensive error handling; professional popup UI for seamless user experience",
+      "Production-ready: full documentation, automated icon generation, and deployment-ready structure — 11KB compressed, under 5MB footprint",
+    ],
+    liveUrl: "",
+    githubUrl: "https://github.com/deepak3128/Shorts-Blocker-Extension",
+    featured: true,
   },
 ];
 
