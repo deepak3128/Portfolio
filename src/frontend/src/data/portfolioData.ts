@@ -121,7 +121,7 @@ export const projects: Project[] = [
     ],
     liveUrl: "",
     githubUrl: "https://github.com/deepak3128/mocha-caf",
-    featured: false,
+    featured: true,
   },
   {
     id: "yt-shorts-blocker",
