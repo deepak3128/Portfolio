@@ -120,7 +120,7 @@ export const projects: Project[] = [
       "Crafted a pixel-perfect, typography-driven UI with Tailwind CSS — fully responsive across all screen sizes with attention to micro-interactions and visual hierarchy",
     ],
     liveUrl: "",
-    githubUrl: "",
+    githubUrl: "https://github.com/deepak3128/mocha-caf",
     featured: false,
   },
   {
