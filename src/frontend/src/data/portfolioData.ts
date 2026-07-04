@@ -119,7 +119,7 @@ export const projects: Project[] = [
       "Leveraged React Query for efficient server-state caching and async data fetching, reducing load times and eliminating redundant API calls",
       "Crafted a pixel-perfect, typography-driven UI with Tailwind CSS — fully responsive across all screen sizes with attention to micro-interactions and visual hierarchy",
     ],
-    liveUrl: "mocha-cafe-frontend.vercel.app",
+    liveUrl: "https://mocha-cafe-frontend.vercel.app/",
     githubUrl: "https://github.com/deepak3128/mocha-caf",
     featured: true,
   },
