@@ -31,7 +31,7 @@ export const education: Education = {
 export const projects: Project[] = [
   {
     id: "urbanmed-sync",
-    title: "Hospital Management System (UrbanMed-Sync)",
+    title: "OPD System (UrbanMed-Sync)",
     period: "Sep 2024",
     tech: [
       "React",
@@ -42,7 +42,7 @@ export const projects: Project[] = [
       "Socket.IO",
     ],
     description:
-      "Full-stack hospital management system to make operations paperless with real-time patient queue and bed availability tracking.",
+      "Full-stack OPD system to make operations paperless with real-time patient queue and bed availability tracking.",
     bullets: [
       "Built responsive real-time dashboard in React for hospital operations enabling live patient queue and bed availability tracking",
       "Designed 12+ reusable UI components and integrated REST APIs for seamless frontend-backend communication",
