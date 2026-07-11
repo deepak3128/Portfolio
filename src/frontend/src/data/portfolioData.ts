@@ -145,6 +145,28 @@ export const projects: Project[] = [
     githubUrl: "https://github.com/deepak3128/Shorts-Blocker-Extension",
     featured: true,
   },
+  {
+  id: "todo-app",
+  title: "Todo App",
+  period: "Jul 2026",
+  tech: [
+    "React",
+    "JavaScript",
+    "Tailwind CSS",
+    "React Hooks",
+    "Local Storage"
+  ],
+  description:
+    "A modern and responsive task management application that helps users organize daily tasks with persistent storage and an intuitive user experience.",
+  bullets: [
+    "Developed a responsive Todo application with complete CRUD functionality, allowing users to create, update, complete, and delete tasks",
+    "Implemented client-side data persistence using Local Storage to retain tasks across browser sessions without requiring authentication",
+    "Designed a clean and mobile-friendly interface using Tailwind CSS with reusable React components for improved maintainability and user experience"
+  ],
+  liveUrl: "https://todo-app-one-pied.vercel.app/",
+  githubUrl: "https://github.com/deepak3128/Todo_app",
+  featured: true,
+},
 ];
 
 export const skillCategories: SkillCategory[] = [
